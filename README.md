@@ -1,7 +1,8 @@
-# awarmory
-2018 JAN - .NET Core 2.0 + Angular 6 + MS SQL Server
+# Description
+This website will create a profile and hide your username and instead provide you with a hashed url to share anonymously a snapshot of your character at the time of creation.
 
 Full website at - https://awarmory.com
+<br>
 Example Profile - https://awarmory.com/profile?profileId=31A62135-FA10-4AEC-AD45-E68D144AB642
 
 Technology Stacks:
