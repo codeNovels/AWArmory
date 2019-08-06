@@ -14,5 +14,5 @@ Technology Stacks:
 ![Picture](https://github.com/codeNovels/awarmory/blob/master/1.PNG) 
 ![Picture](https://github.com/codeNovels/awarmory/blob/master/2.PNG) 
 ![Picture](https://github.com/codeNovels/awarmory/blob/master/3.PNG) 
-![Picture](https://github.com/codeNovels/awarmory/blob/master/4.PNG) 
+![Picture](https://github.com/codeNovels/awarmory/blob/master/4.png) 
 ![Picture](https://github.com/codeNovels/awarmory/blob/master/5.PNG) 
